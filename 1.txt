@@ -1,1 +1,2 @@
 This is a test2
+pull: Lấy nội dung của remote repository
